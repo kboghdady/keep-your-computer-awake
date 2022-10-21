@@ -1,7 +1,5 @@
 import pyautogui
 import time
-import sys
-from datetime import datetime
 
 
 sleep_time_in_seconds = 150 # 2.5 min 
